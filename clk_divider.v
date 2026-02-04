@@ -5,7 +5,7 @@ module clk_divider #(
 )(
     input wire clk,
     input wire rst_n,
-    output reg clk_1hz // Ensure this name is used
+    output reg clk_1hz 
 );
     integer counter;
     always @(posedge clk or negedge rst_n) begin
