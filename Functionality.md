@@ -21,3 +21,8 @@ All the seconds, minutes and state will go back to zero, essentially resetting t
 If you force stop 0 for one cycle, and reset 0 for the next cycle, the clock will start runninf from 0, 1, 3......
 
 If you force rst_n(hard reset), it clears the memory and keeps it at 0
+
+
+Work done by:
+Suryansh Singh
+2023A3PS0196G
